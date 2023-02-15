@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.h": "cpp",
+		"*.md": "markdown",
+		"*.cpp": "cpp",
+		"limits": "cpp"
+	}
+}
